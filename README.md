@@ -40,3 +40,22 @@ Chatbot Engine: Converses and gathers deeper context using OpenAI GPT.
 Backend Processing: Python handles logic, input parsing, and recommendation pipelines.
 RAG Model: Enriches GPT outputs using custom databases.
 Output Generation: Tailored suggestions returned in real-time.
+
+
+'''
+# Clone the repository
+git clone https://github.com/yourusername/careerpath-ai.git
+cd careerpath-ai
+
+# Install backend dependencies
+cd backend
+pip install -r requirements.txt
+
+# Run backend
+python main.py
+
+# Open a new terminal and run frontend
+cd ../frontend
+npm install
+npm start
+'''
