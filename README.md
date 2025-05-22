@@ -42,7 +42,7 @@ RAG Model: Enriches GPT outputs using custom databases.
 Output Generation: Tailored suggestions returned in real-time.
 
 
-"""
+```
 # Clone the repository
 git clone https://github.com/yourusername/careerpath-ai.git
 cd careerpath-ai
@@ -59,5 +59,5 @@ cd ../frontend
 npm install
 npm start
 
-"""
+```
 
